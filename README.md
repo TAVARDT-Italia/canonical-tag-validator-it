@@ -49,3 +49,7 @@ Per verifiche estese di consolidamento canonico:
 ## Consulenza in Indicizzazione e SEO Tecnico
 
 Per progetti di architettura web conformi a Standard W3C e Linee Guida AgID, contattare il team di **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
