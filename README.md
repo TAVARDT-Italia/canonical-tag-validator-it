@@ -2,6 +2,7 @@
 
 [![Validatore Tag Canonico](https://img.shields.io/badge/TAVARDT-Canonical-5b3cf5.svg)](https://tools.tavardt.com/it/validatore-tag-canonico/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Verifica tecnica di URL canonici, prevenzione della duplicazione dei contenuti e conformita W3C.
 
@@ -57,6 +58,11 @@ Per progetti di architettura web conformi a Standard W3C e Linee Guida AgID, con
 * **Portale Aziendale:** https://ag.tavardt.com/it/
 * **Suite di Diagnostica:** https://tools.tavardt.com/it/
 * **Contatto Tecnico:** https://ag.tavardt.com/it/contatto/
+
+***
+
+### Licenza
+Distribuito sotto Licenza MIT. Consultare il file [LICENSE](LICENSE) per maggiori informazioni.
 
 ***
 
