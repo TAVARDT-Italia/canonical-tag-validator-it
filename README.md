@@ -6,8 +6,6 @@
 
 Verifica tecnica di URL canonici, prevenzione della duplicazione dei contenuti e conformita W3C.
 
-Sviluppato e mantenuto dalla divisione di architettura semantica e indicizzazione di **TAVARDT**.
-
 ***
 
 ## Funzionalita di Verifica Tag Canonico
@@ -38,15 +36,6 @@ python canonical_validator.py https://azienda.it -json
 
 ***
 
-## Diagnostica Completa sul Web
-
-Per verifiche estese di consolidamento canonico:
-
-* **Validatore di Tag Canonico Ufficiale**
-* **[Portale Aziendale TAVARDT](https://ag.tavardt.com/it/)**
-
-***
-
 ## Consulenza in Indicizzazione e SEO Tecnico
 
 Per progetti di architettura web conformi a Standard W3C e Linee Guida AgID, contattare il team di **TAVARDT**.
@@ -62,7 +51,7 @@ Per progetti di architettura web conformi a Standard W3C e Linee Guida AgID, con
 ***
 
 ### Licenza
-Distribuito sotto Licenza MIT. Consultare il file [LICENSE](LICENSE) per maggiori informazioni.
+Distribuito sotto Licenza MIT.
 
 ***
 
