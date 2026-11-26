@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/it/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Validatore di Tag Canonici e Consolidamento di URL
 
 [![Validatore Tag Canonico](https://img.shields.io/badge/TAVARDT-Canonical-5b3cf5.svg)](https://tools.tavardt.com/it/validatore-tag-canonico/)
